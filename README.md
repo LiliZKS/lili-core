@@ -1,19 +1,26 @@
-# Lili Core — Mission, values, and architecture
+<div align="center">
 
-**PT/EN • Cyber-feminine • Private by design**
+<img src="https://capsule-render.vercel.app/api?type=rect&height=170&text=Lili%20Core&fontAlign=50&fontAlignY=45&fontSize=42&color=0:ff4ecd,35:b983ff,100:6c63ff&fontColor=ffffff&desc=Mission%20•%20Values%20•%20Architecture&descAlignY=72" />
 
-> Soft voice. Sharp systems.
+**PT/EN • Cyber-feminine • Private by design**  
+_soft voice. sharp systems._
 
-## ✦ Purpose
-The canonical home for Lili’s mission, principles, and how I think about building systems that respect humans.
+[🌐 Landing](https://lilizks.github.io) • [💻 Profile](https://github.com/LiliZKS)
 
-## ✦ What you’ll find here
-- Manifesto and positioning
-- System design notes (sanitized)
-- Guidelines for safe automation
-- Roadmap (public-friendly)
+</div>
 
-## ✦ Values
+---
+
+## ✦ Purpose / Propósito
+
+The canonical home for my public-friendly mission, principles, and how I design systems that respect humans.
+
+## ✦ What you’ll find here / O que tem aqui
+
+- Manifesto + positioning\n- Architecture notes (sanitized)\n- Safety & privacy guidelines\n- Roadmap (public)
+
+## ✦ Values / Valores
+
 - 🔐 Privacy-first
 - 🧠 Clarity over noise
 - 🛠️ Craft + execution
@@ -21,4 +28,6 @@ The canonical home for Lili’s mission, principles, and how I think about build
 
 ---
 
-**Landing:** https://lilizks.github.io
+### ✦ Links
+- Landing page: https://lilizks.github.io
+- GitHub profile: https://github.com/LiliZKS
